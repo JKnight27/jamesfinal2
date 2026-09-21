@@ -1,0 +1,4 @@
+exclude:
+  - plugins/
+  - vendor/
+  - node_modules/
